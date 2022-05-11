@@ -1,0 +1,8 @@
+label > input {
+   visibility: hidden;
+   position: absolute;
+}
+
+.checkBoxImage {
+   display: flex;
+}

@@ -1,0 +1,23 @@
+.blog-list-container {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   margin-top: 40px;
+}
+
+.loader-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 50vh;
+}
+@media screen and (min-width: 575px) {
+   .blog-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+   }
+}
